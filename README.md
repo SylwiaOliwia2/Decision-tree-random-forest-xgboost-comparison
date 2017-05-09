@@ -10,5 +10,5 @@ The code was prepared for my undergraduate disertation, it's purpose wasn't best
 3. sample feature engineering + fine-tuning models' parameters 
 
 Code is divided into three parts: 
-**tree_rf_xgb_models.R** - contains main code
+**tree_rf_xgb_models.R** - contains main code.
 **funkcje.R** - contains custom functions which are used in tree_rf_xgb_models.R.
